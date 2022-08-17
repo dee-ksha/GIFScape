@@ -3,6 +3,7 @@ body {
     max-width: 1024px;
     margin: 0 auto;
     background-color: #e7717d;
+ background-image:url('https://wallpapercave.com/dwp2x/wp2856269.gif'); background-repeat:repeat;
   }
   
   .header {
@@ -50,3 +51,4 @@ body {
     float: left;
     margin-right: 3%;
   }
+
